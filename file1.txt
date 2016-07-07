@@ -1,3 +1,6 @@
-my first file--changes2
+my first file--changes
+Hi
 new2
 new3
+testing
+after merge
