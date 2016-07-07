@@ -1,4 +1,4 @@
-my first file--chsnages
+my first file--changes
 new2
 new3
 testing
