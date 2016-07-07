@@ -2,3 +2,4 @@ my first file--chsnages
 new2
 new3
 testing
+after merge
