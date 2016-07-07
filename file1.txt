@@ -1,3 +1,4 @@
 my first file--chsnages
 new2
 new3
+after merge
